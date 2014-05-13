@@ -14,3 +14,5 @@ Requirements:
 - Install python library Serial: 
 
 	# apt-get install python-serial
+	
+- Install wiringPi2 library if you want to use two leds to indicate which relay is activated.
