@@ -34,6 +34,6 @@ fastcgi.server = ( ".php" => ((
 
 # service lighttpd restart
 
-5. Add permission of execution to script xbeeo2 for the user www-data with visudo. The website is host in "/www/var" diretory.
+5. Add permission of execution to script xbeeo2 for the user www-data with visudo. The website is host in "/var/www" diretory.
 
 www-data ALL=NOPASSWD: /var/www/resources/xbeeo2
